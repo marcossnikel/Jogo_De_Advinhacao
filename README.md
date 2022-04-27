@@ -1,0 +1,1 @@
+Jogo de advinhação realizado em C , com níveis (Facil, Médio e Dificil) Podendo ser implementado nele o estudo e explicação sobre pesquisa binária !!
